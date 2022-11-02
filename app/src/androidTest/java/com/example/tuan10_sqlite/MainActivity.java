@@ -17,8 +17,8 @@ import android.widget.Button;
 import android.widget.ListView;
 import android.widget.TextView;
 
-import com.example.bt10sqlite.Control.Database;
-import com.example.bt10sqlite.Model.Category;
+import com.example.tuan10_sqlite.Control.Database;
+import com.example.tuan10_sqlite.Model.Category;
 
 import java.util.ArrayList;
 import java.util.List;

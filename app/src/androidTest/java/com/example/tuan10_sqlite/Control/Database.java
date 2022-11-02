@@ -65,13 +65,6 @@ public class Database extends SQLiteOpenHelper {
     @Override
     public void onCreate(SQLiteDatabase sqLiteDatabase) {
 
-        insertCa("Category 1","Asus");
-        insertCa("Category 2","Dell");
-        insertCa("Category 3","HP");
-        insertC("PC01","Computer Asus 1","Category 1");
-        insertC("PC02","Computer Asus 2","Category 1");
-        insertC("PC03","Computer Asus 3","Category 1");
-        insertC("PC04","Computer Asus 4","Category 1");
     }
 
     @Override
